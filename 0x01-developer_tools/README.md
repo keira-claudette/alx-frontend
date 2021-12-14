@@ -1,6 +1,6 @@
 # Developer tools
 
-- [This project will analyze this website https://dev-tools.hbtn.info/.](https://dev-tools.hbtn.info/)
+- This project will analyze this website [https://dev-tools.hbtn.info/.](https://dev-tools.hbtn.info/)
 
 ### General concepts
 - What Developer Tools in your browser are
